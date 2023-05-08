@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week3T01</string>
+    <string name="titleApp">Login Page</string>
+    <string name="userNameText">Username</string>
+    <string name="userPasswordText">Password</string>
+    <string name="button">Login</string>
+    <string name="OTPPageText">OTP Page</string>
+</resources>
+
